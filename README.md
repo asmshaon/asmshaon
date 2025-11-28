@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.upwork.com/freelancers/abusaleh">Upwork</a> •
   <a href="https://www.linkedin.com/in/asmshaon/">LinkedIn</a> •
-  <a href="mailto:srabon.php@gmail.com">Email</a>
+  <a href="https://abu-swe-dev.vercel.app/">My Portfolio</a>
 </p>
 
 ---
@@ -26,18 +26,16 @@ I specialize in:
 - Next.js + Laravel + Node microservice architecture  
 - DevOps, CI/CD, Docker, Kubernetes, cloud-native design  
 
-I'm passionate about crafting clean systems that generate serious business impact — backed by one of the strongest freelance profiles in the industry.
+I'm passionate about crafting clean systems that generate serious business impact - backed by one of the strongest freelance profiles in the industry.
 
 ---
 
 # 🏆 Achievements
 
-- 💼 **25,000+ Upwork hours** — 100% Job Success  
+- 💼 **25,000+ Upwork hours** - 100% Job Success  
 - 🥇 **Top-Rated Plus** badge for 10+ years  
 - 🌍 Work delivered across Australia, USA, Saudi Arabia & Europe  
-- 🚀 Architected multi-supplier booking engine with **20+ global integrations**  
-- 🔐 Improved financial transaction security by **25%**  
-- 📊 Built dashboards, reporting engines & workflow automation tools  
+- 🚀 Architected multi-supplier booking engine with **44+ global integrations**  
 
 ---
 
@@ -50,7 +48,7 @@ I'm passionate about crafting clean systems that generate serious business impac
 
 ### 🔧 **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,express,nextjs,react,vue,fastapi,symfony" />
+  <img src="https://skillicons.dev/icons?i=laravel,express,nextjs,react,fastapi,symfony" />
 </p>
 
 ### 🗄️ **Databases**
@@ -126,15 +124,15 @@ Flexible analytics module with dynamic charts, multi-level filtering, and CSV/Ex
 ### 🔹 **AI Chat Integration Layer**
 A unified wrapper for OpenAI / Anthropic / custom embeddings with RAG support.
 
-> If you want, I can add *actual GitHub repo cards* once you tell me which repos to highlight.
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmshaon&show_icons=true&theme=default" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmshaon" height="170" />
+  <!-- main stats (public) -->
+  <p align="center">
+    <img src="https://ghchart.rshah.org/asmshaon" alt="Contribution chart" />
+  </p>
 </p>
 
 <p align="center">
@@ -152,10 +150,8 @@ A unified wrapper for OpenAI / Anthropic / custom embeddings with RAG support.
 
 # 🌐 Find Me Online
 
-- **Upwork**: https://www.upwork.com/freelancers/abusaleh  
 - **LinkedIn**: https://www.linkedin.com/in/asmshaon/  
 - **GitHub**: https://github.com/asmshaon  
-- **Email**: srabon.php@gmail.com  
 
 ---
 
