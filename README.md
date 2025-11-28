@@ -35,7 +35,7 @@ I'm passionate about crafting clean systems that generate serious business impac
 - 💼 **25,000+ Upwork hours** - 100% Job Success  
 - 🥇 **Top-Rated Plus** badge for 10+ years  
 - 🌍 Work delivered across Australia, USA, Saudi Arabia & Europe  
-- 🚀 Architected multi-supplier booking engine with **44+ global integrations**  
+- 🚀 Completed **44+** Projects with happy clients
 
 ---
 
