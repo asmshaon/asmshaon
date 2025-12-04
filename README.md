@@ -1,9 +1,3 @@
-<!-- ====== CUSTOM BANNER (Optional) ====== -->
-<p align="center">
-  <!-- Replace the URL with your custom banner -->
-  <img src="https://placehold.co/1200x250?text=Abu+Saleh+Muhammad+Shaon+-+Full+Stack+Software+Engineer&font=Roboto" />
-</p>
-
 <h1 align="center">Hi, I'm Abu Saleh Muhammad Shaon 👋</h1>
 <h3 align="center">Full Stack Web Developer • Solution Architect • AI Integrator</h3>
 
