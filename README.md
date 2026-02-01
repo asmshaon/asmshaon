@@ -129,9 +129,9 @@ A unified wrapper for OpenAI / Anthropic / custom embeddings with RAG support.
   </p>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmshaon&layout=compact&theme=default" height="170" />
-</p>
+</p> -->
 
 ---
 
