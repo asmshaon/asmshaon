@@ -1,152 +1,59 @@
-<h1 align="center">Hi, I'm Abu Saleh Muhammad Shaon 👋</h1>
-<h3 align="center">Full Stack Web Developer • Solution Architect • AI Integrator</h3>
+<h1 align="center">Abu Saleh Muhammad Shaon</h1>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/abusaleh">Upwork</a> •
-  <a href="https://www.linkedin.com/in/asmshaon/">LinkedIn</a> •
-  <a href="https://asmshaon.tech/">My Portfolio</a>
+  <b>Senior Full-Stack Software Engineer</b><br/>
+  I turn hard business problems into reliable software.
 </p>
-
----
-
-# 🧑‍💻 About Me
-
-Experienced **Full Stack Developer & Solution Architect** with **16+ years** of building scalable, secure, and high-performance systems.
-
-I specialize in:
-- Large enterprise booking engines  
-- Financial systems, digital wallets, secure APIs  
-- AI/LLM integrations (OpenAI, LangChain, RAG)  
-- Next.js + Laravel + Node microservice architecture  
-- DevOps, CI/CD, Docker, Kubernetes, cloud-native design  
-
-I'm passionate about crafting clean systems that generate serious business impact - backed by one of the strongest freelance profiles in the industry.
-
----
-
-# 🏆 Achievements
-
-- 💼 **25,000+ Upwork hours** - 100% Job Success  
-- 🥇 **Top-Rated Plus** badge for 10+ years  
-- 🌍 Work delivered across Australia, USA, Saudi Arabia & Europe  
-- 🚀 Completed **44+** Projects with happy clients
-
----
-
-# 🧠 Tech Stack
-
-### 🚀 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,ts,js,nodejs,python" />
-</p>
-
-### 🔧 **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,express,nextjs,react,fastapi,symfony" />
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### 🛠️ **DevOps & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,nginx" />
-</p>
-
-### 🤖 **AI & Integrations**
-- OpenAI / LangChain  
-- RAG pipelines  
-- Embedding search  
-- Event-driven architecture  
-- Webhook systems & secure integrations
-
-# 🧑‍💼 Professional Experience
-
-## 🔹 Full Stack Web Developer
-**Jan 2010 – Present**  
-_Freelancing | Remote | Upwork_
-
-- Full Stack Developer with over 15 years of experience in web technologies  
-- Boosted transaction security by **25%** by developing a secure RESTful API for a digital wallet and ecommerce platform  
-- Created comprehensive admin portals with reporting & analytics  
-- Implemented critical security fixes ensuring compliance across financial operations  
-- Completed **25K+ Upwork hours** with **100% Job Success Score**, Top-Rated Plus  
-
----
-
-## 🔹 Sr. Web Developer  
-**Jan 2015 – Jan 2020**  
-_VroomVroomVroom Pty Ltd | Australia_
-
-- Developed enterprise-grade car rental booking engine using RESTful APIs  
-- Built key features: airport retargeting, loyalty programs, dynamic pricing  
-- Integrated **20+ international suppliers**, managing real-time inventory  
-
----
-
-## 🔹 Sr. Software Developer  
-**Jan 2012 – Jan 2015**  
-_Okdoit & Moteel.com | Saudi Arabia_
-
-- Built hotel and task management applications using Ruby on Rails and Laravel  
-- Enabled email integration, booking systems, and workflow automation  
-- Participated in agile development using Scrum  
-
----
-
-## 🔹 Web Developer  
-**Jan 2009 – Jan 2011**  
-_Bengals Solutions & Informatix Technologies | Bangladesh_
-
-- Increased efficiency by **15%** by developing full-stack web applications using Zend Framework and CodeIgniter  
-- Improved recruitment workflow by **30%** through building an enterprise-grade job portal with advanced search functions  
-
-
----
-
-# 🚀 Featured Projects (Open Source / Public Work)
-
-### 🔹 **Next.js + Laravel Booking Engine (Modular Architecture)**
-A modern, clean, future-proof adaptation of legacy booking logic into reusable micro-modules.  
-**Tech:** Next.js 15, React Server Components, Laravel API, Redis, RAG search.
-
-### 🔹 **Smart Admin Dashboard & Report Builder**
-Flexible analytics module with dynamic charts, multi-level filtering, and CSV/Excel export.
-
-### 🔹 **AI Chat Integration Layer**
-A unified wrapper for OpenAI / Anthropic / custom embeddings with RAG support.
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-  <!-- main stats (public) -->
-  <p align="center">
-    <img src="https://ghchart.rshah.org/asmshaon" alt="Contribution chart" />
-  </p>
+  <a href="https://asmshaon.tech/">Website</a> ·
+  <a href="https://portfolio.asmshaon.tech/">Portfolio</a> ·
+  <a href="https://blog.asmshaon.tech/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/asmshaon/">LinkedIn</a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmshaon&layout=compact&theme=default" height="170" />
-</p> -->
-
 ---
 
-# 🎓 Certifications
+### About
 
-- 🥇 Laravel Certified — 2023  
-- 🥇 PHP Certified — 2010  
+For 16+ years I've designed, built and led production systems for businesses in the US, Australia, Singapore and Europe: payments, bookings, point of sale, marketplaces and SaaS platforms.
 
----
+I take ownership of the parts a business can't afford to get wrong: money, bookings, supplier data, and the older systems that still hold everything together.
 
-# 🌐 Find Me Online
+Currently **Lead Software Engineer at Gourmeal**, leading a team of 4–5 engineers on an in-venue food-ordering platform.
 
-- **LinkedIn**: https://www.linkedin.com/in/asmshaon/  
-- **GitHub**: https://github.com/asmshaon  
+### What I deliver
 
----
+- **Bookings and payments.** Booking engines and checkouts where the money has to be right every time.
+- **One product, many suppliers.** Many partners' data and rules behind one catalogue and one booking flow.
+- **Modernizing legacy systems.** Replacing aging platforms piece by piece while the business keeps running.
+- **Leading small teams.** Code review, planning, mentoring and hiring for teams of 2–5 engineers.
+- **Security and compliance.** Security reviews, penetration-test fixes and regulatory reporting.
 
-<p align="center">⭐ If you like my work, feel free to star a repo or connect!</p>
+### Selected work
+
+| Business | What I did | Result |
+|---|---|---|
+| Car-rental comparison and booking (Australia) | Put 10+ rental suppliers behind one booking system, with white-label partner sites | 4M+ rentals across 5 countries |
+| Cruise and tour retailer (US) | Designed one catalogue fed automatically by seven tour operators | Tour and search pages several times faster |
+| Point of sale for regulated retail (US) | Led the team building sales, delivery, inventory and state compliance reporting | A wholesale product spun off from the platform |
+| Consumer and merchant e-wallet (Singapore) | Built money movement and most of the marketplace seller portal | Double-spend risk from a penetration test fixed |
+| Legal-tech search for SEC filings (US) | Sole engineer: built the whole subscription product | 100k–1M contract exhibits indexed |
+| Gourmeal, food ordering at events (US) | Moved pricing and payments server-side; wrote the first security review | Critical, high and medium findings fixed within three days |
+
+More detail on each project: **[portfolio.asmshaon.tech](https://portfolio.asmshaon.tech/)**
+
+### How I work
+
+- **Business first.** Start from the problem and measure the work by what it changes.
+- **Safe by default.** The server decides prices, money moves all-or-nothing, and data is never half-updated.
+- **Replace, don't rewrite.** Move one piece at a time and keep the old path working until the new one is ready.
+- **Clear and dependable.** Plain updates, deadlines kept, and long-term working relationships.
+
+### Tools I use
+
+PHP (Laravel, Symfony) · Go · TypeScript (Next.js, React) · MySQL · Redis · AWS · Docker · GitHub Actions · Stripe
+
+### Let's talk
+
+Have a problem worth solving? **[Get in touch](https://asmshaon.tech/#contact)**
