@@ -52,7 +52,7 @@ More detail on each project: **[portfolio.asmshaon.tech](https://portfolio.asmsh
 
 ### Tools I use
 
-PHP (Laravel, Symfony) · Go · TypeScript (Next.js, React) · MySQL · Redis · AWS · Docker · GitHub Actions · Stripe
+PHP (Laravel, Symfony) · Python (FastAPI) · Go · TypeScript (Next.js, React) · MySQL · Redis · AWS · Docker · GitHub Actions · Stripe
 
 ### Let's talk
 
