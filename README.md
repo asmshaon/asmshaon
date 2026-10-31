@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://asmshaon.tech/">Website</a> ·
-  <a href="https://portfolio.asmshaon.tech/">Portfolio</a> ·
-  <a href="https://blog.asmshaon.tech/">Blog</a> ·
   <a href="https://www.linkedin.com/in/asmshaon/">LinkedIn</a>
 </p>
 
@@ -28,7 +26,6 @@ Currently **Lead Software Engineer at Gourmeal**, leading a team of 4–5 engine
 - **One product, many suppliers.** Many partners' data and rules behind one catalogue and one booking flow.
 - **Modernizing legacy systems.** Replacing aging platforms piece by piece while the business keeps running.
 - **Leading small teams.** Code review, planning, mentoring and hiring for teams of 2–5 engineers.
-- **Security and compliance.** Security reviews, penetration-test fixes and regulatory reporting.
 
 ### Selected work
 
@@ -40,8 +37,6 @@ Currently **Lead Software Engineer at Gourmeal**, leading a team of 4–5 engine
 | Consumer and merchant e-wallet (Singapore) | Built money movement and most of the marketplace seller portal | Double-spend risk from a penetration test fixed |
 | Legal-tech search for SEC filings (US) | Sole engineer: built the whole subscription product | 100k–1M contract exhibits indexed |
 | Gourmeal, food ordering at events (US) | Moved pricing and payments server-side; wrote the first security review | Critical, high and medium findings fixed within three days |
-
-More detail on each project: **[portfolio.asmshaon.tech](https://portfolio.asmshaon.tech/)**
 
 ### How I work
 
@@ -56,4 +51,4 @@ PHP (Laravel, Symfony) · Python (FastAPI) · Go · TypeScript (Next.js, React) 
 
 ### Let's talk
 
-Have a problem worth solving? **[Get in touch](https://asmshaon.tech/#contact)**
+Have a problem worth solving? **[Get in touch](https://asmshaon.tech/#book-a-call)**
