@@ -36,7 +36,6 @@ Currently **Lead Software Engineer at Gourmeal**, leading a team of 4–5 engine
 | Point of sale for regulated retail (US) | Led the team building sales, delivery, inventory and state compliance reporting | A wholesale product spun off from the platform |
 | Consumer and merchant e-wallet (Singapore) | Built money movement and most of the marketplace seller portal | Double-spend risk from a penetration test fixed |
 | Legal-tech search for SEC filings (US) | Sole engineer: built the whole subscription product | 100k–1M contract exhibits indexed |
-| Gourmeal, food ordering at events (US) | Moved pricing and payments server-side; wrote the first security review | Critical, high and medium findings fixed within three days |
 
 ### How I work
 
