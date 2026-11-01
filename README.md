@@ -18,7 +18,7 @@ For 16+ years I've designed, built and led production systems for businesses in 
 
 I take ownership of the parts a business can't afford to get wrong: money, bookings, supplier data, and the older systems that still hold everything together.
 
-Currently **Lead Software Engineer at  Confidential Company**, leading a team of 4–5 engineers on an in-venue food-ordering platform.
+Currently **Lead Software Engineer at Confidential Company**, leading a team of 4–5 engineers on an in-venue food-ordering platform.
 
 ### What I deliver
 
